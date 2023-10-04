@@ -13,6 +13,7 @@ This gem adds Bootstrap renderers for [Simple Navigation](https://github.com/cod
 * [Bootstrap 2 navigation](http://getbootstrap.com/2.3.2/components.html#navbar)
 * [Bootstrap 3 navigation](https://getbootstrap.com/docs/3.3/components/#navbar)
 * [Bootstrap 4 navigation](https://getbootstrap.com/docs/4.0/components/navbar/)
+* [Bootstrap 5 navigation](https://getbootstrap.com/docs/5.0/components/navbar/)
 
 With these renderers you will be able create **any Bootstrap navigation elements**, such as: **submenu**, **navbar-text**, **divider**, **header**.
 As well as add **icons** to menu elements, such as: Glyphicons, Font Awesome icons, even custom icons. Also you have **split** option for main menu containing submenu.
